@@ -1,1 +1,1 @@
-# shoutout
+The Shoutout Mini App on Farcaster 
